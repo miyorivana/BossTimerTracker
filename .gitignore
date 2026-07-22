@@ -1,0 +1,36 @@
+# Closed application source
+*.py
+*.py[cod]
+*.spec
+app.py
+boss_timer/
+tools/
+tests/
+requirements*.txt
+
+# Compiled application and release packages
+*.exe
+*.dll
+*.pyd
+*.zip
+*.7z
+*.rar
+tesseract/
+build*/
+dist*/
+protected*/
+
+# Runtime and diagnostic data
+*.json
+*.xml
+*.log
+__pycache__/
+.venv/
+venv/
+
+# Windows and editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
