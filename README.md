@@ -6,6 +6,8 @@
 
 Boss Timer Tracker — внешнее приложение для Cristalix/Minecraft. Оно распознаёт имя открытого босса и время его появления, после чего показывает сохранённые таймеры в компактном оверлее.
 
+[**Скачать Boss Timer Tracker 6.1.0**](https://github.com/miyorivana/BossTimerTracker/releases/download/v6.1.0/BossTimerTracker-Protected-6.1.0.zip)
+
 ![Boss Timer Tracker](media/preview.png)
 
 ## Как пользоваться
