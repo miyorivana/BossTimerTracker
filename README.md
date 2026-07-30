@@ -6,7 +6,7 @@
 
 Boss Timer Tracker — внешний оверлей для Cristalix Prison Evo. Он распознаёт имя босса и таймер с экрана, сохраняет время появления и сортирует общий список от ближайшего босса к самому долгому.
 
-[**Скачать Boss Timer Tracker 7.0.0**](https://github.com/miyorivana/BossTimerTracker/releases/download/v7.0.0/BossTimerTracker-Protected-7.0.0.zip)
+[**Скачать Boss Timer Tracker 7.0.1**](https://github.com/miyorivana/BossTimerTracker/releases/download/v7.0.1/BossTimerTracker-Protected-7.0.1.zip)
 
 ![Оверлей Boss Timer Tracker 7.0](media/preview-7.png)
 
@@ -33,6 +33,7 @@ Boss Timer Tracker — внешний оверлей для Cristalix Prison Evo
 
 - тёмно-фиолетовый переливающийся интерфейс;
 - оконный, безрамочный и полноэкранный оверлей;
+- самостоятельный TOPMOST-слой, который не исчезает при переключении Minecraft в полный экран;
 - форматы `MM:SS` и `HH:MM:SS`;
 - статусы `НЕ ПРОСКАНИРОВАН` и `ДОСТУПЕН`;
 - сохранение таймеров между запусками;
